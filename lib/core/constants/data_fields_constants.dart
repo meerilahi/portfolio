@@ -1,0 +1,33 @@
+class DataFields {
+  static const homeName = "Home";
+  static const aboutName = "About";
+  static const portfolioName = "Portfolio";
+  static const contactName = "Contact";
+  static const messagesName = "Messages";
+  static const name = "Name";
+  static const role = "Role";
+  static const introPara = "Intro Para";
+  static const imageLink = "Image Link";
+  static const personalInfoListData = 'Personal Info List Data';
+  static const personalInfoCardData = 'Personal Info Card Data';
+  static const cvLink = 'Cv Link';
+  static const mySkillsData = 'My Skills Data';
+  static const myEduAndExpData = 'My Education And Experience Data';
+  static const period = "Period";
+  static const title = "Title";
+  static const description = "Description";
+  static const webLink = "Web Link";
+  static const techStack = "Tech Stack";
+  static const clientName = "Client Name";
+  static const clientContact = "Client Contact";
+  static const portfolioItems = "Portfolio Items";
+  static const email = "Email";
+  static const contactNumber = "Contact Number";
+  static const githubLink = "Github Link";
+  static const websiteLink = "Website Link";
+  static const twitterLink = "Twitter Link";
+  static const linkedInLink = "LinkedIn Link";
+  static const subject = "Subject";
+  static const message = "Message";
+  static const dateTime = "Date Time";
+}
